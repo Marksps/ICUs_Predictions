@@ -1,0 +1,224 @@
+PATIENT_VISIT_IDENTIFIER: ไอดีผู้ป่วยที่เป็นโควิด-19	
+AGE_ABOVE65: ผู้ป่วยที่อายุเกิน 65 ปี	
+AGE_PERCENTIL: อายุผู้ป่วย	
+GENDER	DISEASE GROUPING 1	
+DISEASE GROUPING 1: กลุ่มผู้ป่วยในโรคที่ 1
+DISEASE GROUPING 2: กลุ่มผู้ป่วยในโรคที่ 2
+DISEASE GROUPING 3: กลุ่มผู้ป่วยในโรคที่ 3
+DISEASE GROUPING 4: กลุ่มผู้ป่วยในโรคที่ 4
+DISEASE GROUPING 5: กลุ่มผู้ป่วยในโรคที่ 5
+DISEASE GROUPING 6: กลุ่มผู้ป่วยในโรคที่ 6	
+HTN: ผุ้ป่วยที่เป็นโรคความดันโลหิตสูง (0 = ไม่เป็น,1 = เป็น)	
+IMMUNOCOMPROMISED: ผุ้ป่วยที่เป็นโรคภูมิคุ้มกันอ่อนแอ(0 = ไม่เป็น , 1 = เป็น)	
+OTHER: ผุ้ป่วยที่เป็นโรคอื่นๆ(0 = ไม่เป็น , 1 = เป็น)	
+ALBUMIN_MEDIAN: ค่ามัธยฐานของค่า ALBUMIN
+ALBUMIN_MEAN: ค่าเฉลี่ยของค่า ALBUMIN
+ALBUMIN_MIN: ค่าที่น้อยที่สุดของค่า ALBUMIN
+ALBUMIN_MAX: ค่าที่มากที่สุดของค่า ALBUMIN
+✖✖✖☒**Drop**ALBUMIN_DIFF	
+BE_ARTERIAL_MEDIAN: ค่ามัธยฐานของระดับก๊าซในหลอดเลือดแดง
+BE_ARTERIAL_MEAN: ค่าเฉลี่ยของระดับก๊าซในหลอดเลือดแดง
+BE_ARTERIAL_MIN: ค่าที่น้อยที่สุดของระดับก๊าซในหลอดเลือดแดง
+BE_ARTERIAL_MAX: ค่าที่มากที่สุดของระดับก๊าซในหลอดเลือดแดง
+✖✖✖☒**Drop**BE_ARTERIAL_DIFF
+BE_VENOUS_MEDIAN: ค่ามัธยฐานของระดับการไหลเวียนของเลือด
+BE_VENOUS_MEAN: ค่าเฉลี่ยของระดับการไหลเวียนของเลือด
+BE_VENOUS_MIN: ค่าที่น้อยที่สุดของระดับการไหลเวียนของเลือด
+BE_VENOUS_MAX: ค่าที่มากที่สุดของระดับการไหลเวียนของเลือด
+✖✖✖☒**Drop**BE_VENOUS_DIFF
+BIC_ARTERIAL_MEDIAN	
+BIC_ARTERIAL_MEAN	
+BIC_ARTERIAL_MIN	BIC_ARTERIAL_MAX	
+✖✖✖☒**Drop**BIC_ARTERIAL_DIFF	
+BIC_VENOUS_MEDIAN	
+BIC_VENOUS_MEAN	
+BIC_VENOUS_MIN	
+BIC_VENOUS_MAX	
+✖✖✖☒**Drop**BIC_VENOUS_DIFF	
+BILLIRUBIN_MEDIAN	
+BILLIRUBIN_MEAN: ค่าเฉลี่ยของค่า BILLIRUBIN	
+BILLIRUBIN_MIN: ค่าที่น้อยที่สุดของค่า BILLIRUBIN	
+BILLIRUBIN_MAX: ค่าที่มากที่สุดของค่า BILLIRUBIN	
+✖✖✖☒**Drop**BILLIRUBIN_DIFF	
+BLAST_MEDIAN: ค่ามัธยฐานของค่าเม็ดเลือดที่้เซลล์ยังไม่เติบโต	
+BLAST_MEAN	
+BLAST_MIN	
+BLAST_MAX	
+✖✖✖☒**Drop**BLAST_DIFF	
+CALCIUM_MEDIAN: ค่ามัธยฐานของค่า CALCIUM	
+CALCIUM_MEAN	
+CALCIUM_MIN	
+CALCIUM_MAX	
+✖✖✖☒**Drop**CALCIUM_DIFF	
+CREATININ_MEDIAN: ค่ามัธยฐานของค่า CREATININ
+CREATININ_MEAN	
+CREATININ_MIN
+CREATININ_MAX	
+✖✖✖☒**Drop**CREATININ_DIFF	
+FFA_MEDIAN: ค่ามัธยฐานของค่ากรดไขมันอิสระ 	
+FFA_MEAN	
+FFA_MIN
+FFA_MAX	
+✖✖✖☒**Drop**	FFA_DIFF	
+GGT_MEDIAN: ค่ามัธยฐานของค่าตับ	
+GGT_MEAN	
+GGT_MIN	
+GGT_MAX	
+✖✖✖☒**Drop**GGT_DIFF	
+GLUCOSE_MEDIAN: ค่ามัธยฐานของ GLUCOSE	
+GLUCOSE_MEAN	
+GLUCOSE_MIN	
+GLUCOSE_MAX	
+✖✖✖☒**Drop**GLUCOSE_DIFF	
+HEMATOCRITE_MEDIAN: ค่ามัธยฐานของHEMATOCRITE
+HEMATOCRITE_MEAN	
+HEMATOCRITE_MIN	
+HEMATOCRITE_MAX	
+✖✖✖☒**Drop**HEMATOCRITE_DIFF	
+HEMOGLOBIN_MEDIAN: ค่ามัธยฐานของ HEMOGLOBIN	
+HEMOGLOBIN_MEAN	
+HEMOGLOBIN_MIN	
+HEMOGLOBIN_MAX	
+✖✖✖☒**Drop**HEMOGLOBIN_DIFF	
+INR_MEDIAN: ค่ามัธยฐานของ INR	
+INR_MEAN	
+INR_MIN	
+INR_MAX	
+✖✖✖☒**Drop**INR_DIFF	
+LACTATE_MEDIAN: ค่ามัธยฐานของ LACTATE	
+LACTATE_MEAN	
+LACTATE_MIN	
+LACTATE_MAX	
+✖✖✖☒**Drop**LACTATE_DIFF	
+LEUKOCYTES_MEDIAN: ค่ามัธยฐานของค่าเม็ดเลือดขาว	
+LEUKOCYTES_MEAN	
+LEUKOCYTES_MIN	
+LEUKOCYTES_MAX
+✖✖✖☒**Drop**LEUKOCYTES_DIFF	
+LINFOCITOS_MEDIAN: ค่ามัธยฐานของค่า LINFOCITOS	
+LINFOCITOS_MEAN
+LINFOCITOS_MIN
+LINFOCITOS_MAX		
+✖✖✖☒**Drop**LINFOCITOS_DIFF	
+NEUTROPHILES_MEDIAN: ค่ามัธยฐานของค่า NEUTROPHILES	
+NEUTROPHILES_MEAN	
+NEUTROPHILES_MIN	
+NEUTROPHILES_MAX	
+✖✖✖☒**Drop**NEUTROPHILES_DIFF	
+P02_ARTERIAL_MEDIAN: ค่ามัธยฐานของค่าออกซิเจนในหลอดเลือดแดง
+P02_ARTERIAL_MEAN	
+P02_ARTERIAL_MIN	
+P02_ARTERIAL_MAX	
+✖✖✖☒**Drop**P02_ARTERIAL_DIFF	
+P02_VENOUS_MEDIAN: ค่ามัธยฐานของค่าออกซิเจนในหลอดเลือด	
+P02_VENOUS_MEAN	
+P02_VENOUS_MIN	
+P02_VENOUS_MAX	
+✖✖✖☒**Drop**P02_VENOUS_DIFF	
+PC02_ARTERIAL_MEDIAN: ค่ามัธยฐานของคาร์บอนไดออกไซด์ในหลอดเลือดแดง	
+PC02_ARTERIAL_MEAN	
+PC02_ARTERIAL_MIN	
+PC02_ARTERIAL_MAX	
+✖✖✖☒**Drop**PC02_ARTERIAL_DIFF	
+PC02_VENOUS_MEDIAN: ค่ามัธยฐานของคาร์บอนไดออกไซด์ในหลอดเลือด
+PC02_VENOUS_MEAN	
+PC02_VENOUS_MIN	
+PC02_VENOUS_MAX	
+✖✖✖☒**Drop**PC02_VENOUS_DIFF	
+PCR_MEDIAN: ค่ามัธยฐานของค่า PCR	
+PCR_MEAN	
+PCR_MIN	
+PCR_MAX	
+✖✖✖☒**Drop**PCR_DIFF
+PH_ARTERIAL_MEDIAN: ค่ามัธยฐานของค่า PH	
+PH_ARTERIAL_MEAN	
+PH_ARTERIAL_MIN	
+PH_ARTERIAL_MAX
+✖✖✖☒**Drop**PH_ARTERIAL_DIFF	
+PH_VENOUS_MEDIAN: ค่ามัธยฐานของค่า PH
+PH_VENOUS_MEAN	
+PH_VENOUS_MIN	
+PH_VENOUS_MAX	
+✖✖✖☒**Drop**PH_VENOUS_DIFF	
+PLATELETS_MEDIAN: ค่ามัธยฐานของค่าเกล็ดเลือด	
+PLATELETS_MEAN	
+PLATELETS_MIN	
+PLATELETS_MAX	
+✖✖✖☒**Drop**PLATELETS_DIFF	
+POTASSIUM_MEDIAN: ค่ามัธยฐานของค่า POTASSIUM	
+POTASSIUM_MEAN	
+POTASSIUM_MIN	
+POTASSIUM_MAX	
+✖✖✖☒**Drop**POTASSIUM_DIFF	
+SAT02_ARTERIAL_MEDIAN: ค่ามัธยฐานของค่าความเข้มข้นของออกซิเจน	
+SAT02_ARTERIAL_MEAN	
+SAT02_ARTERIAL_MIN	
+SAT02_ARTERIAL_MAX	
+✖✖✖☒**Drop**SAT02_ARTERIAL_DIFF	
+SAT02_VENOUS_MEDIAN: ค่ามัธยฐานของค่าความเข้มข้นของออกซิเจน	
+SAT02_VENOUS_MEAN	
+SAT02_VENOUS_MIN	
+SAT02_VENOUS_MAX	
+✖✖✖☒**Drop**SAT02_VENOUS_DIFF	
+SODIUM_MEDIAN: ค่ามัธยฐานของ SODIUM
+SODIUM_MEAN	
+SODIUM_MIN	
+SODIUM_MAX	
+✖✖✖☒**Drop**SODIUM_DIFF	
+TGO_MEDIAN: ค่ามัธยฐานของค่า TGO	
+TGO_MEAN	
+TGO_MIN	
+TGO_MAX	
+✖✖✖☒**Drop**TGO_DIFF	
+TGP_MEDIAN: ค่ามัธยฐานของค่า TGP		
+TGP_MEAN	
+TGP_MIN	
+TGP_MAX
+✖✖✖☒**Drop**TGP_DIFF	
+TTPA_MEDIAN: ค่ามัธยฐานของค่า TTPA		
+TTPA_MEAN	
+TTPA_MIN	
+TTPA_MAX	
+✖✖✖☒**Drop**TTPA_DIFF	
+UREA_MEDIAN: ค่ามัธยฐานของค่า UREA		
+UREA_MEAN	
+UREA_MIN	
+UREA_MAX	
+✖✖✖☒**Drop**UREA_DIFF	
+DIMER_MEDIAN: ค่ามัธยฐานของค่า DIMER		
+DIMER_MEAN	
+DIMER_MIN	
+DIMER_MAX	
+✖✖✖☒**Drop**DIMER_DIFF
+BLOODPRESSURE_DIASTOLIC_MEDIAN: ค่ามัธยฐานของค่าแรงดันเลือดในขณะที่หัวใจคลายตัว
+BLOODPRESSURE_DIASTOLIC_MEAN	
+BLOODPRESSURE_DIASTOLIC_MIN
+BLOODPRESSURE_DIASTOLIC_MAX
+✖✖✖
+BLOODPRESSURE_SISTOLIC_MEDIAN: ค่ามัธยฐานของค่าแรงดันเลือดในขณะที่หัวใจบีบตัว
+BLOODPRESSURE_SISTOLIC_MEAN
+BLOODPRESSURE_SISTOLIC_MIN
+BLOODPRESSURE_SISTOLIC_MAX
+✖✖✖
+HEART_RATE_MEDIAN: ค่ามัธยฐานของอัตราการเต้นของหัวใจ
+HEART_RATE_MEAN
+HEART_RATE_MIN
+HEART_RATE_MAX
+✖✖✖
+RESPIRATORY_RATE_MEDIAN: ค่ามัธยฐานของอัตราการหายใจ
+RESPIRATORY_RATE_MEAN
+RESPIRATORY_RATE_MIN
+RESPIRATORY_RATE_MAX
+✖✖✖
+TEMPERATURE_MEDIAN: ค่ามัธยฐานของอุณหภูมิร่างกาย
+TEMPERATURE_MEAN
+TEMPERATURE_MIN
+TEMPERATURE_MAX
+✖✖✖
+OXYGEN_SATURATION_MEDIAN: ค่ามัธยฐานของความเข้มข้นของออกซิเจนในเลือด
+OXYGEN_SATURATION_MEAN
+OXYGEN_SATURATION_MIN
+OXYGEN_SATURATION_MAX
+✖✖✖
+WINDOW: ช่วงเวลาการรักษา
+ICU: ผู้ป่วยรับการรักษาในห้องฉุกเฉินหรือไม่(0 = ไม่, 1 = ใช่ )

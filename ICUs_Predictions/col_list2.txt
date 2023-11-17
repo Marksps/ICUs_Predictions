@@ -1,0 +1,40 @@
+ALBUMIN: ค่า ALBUMIN
+BE_ARTERIAL: ค่าระดับก๊าซในหลอดเลือดแดง
+BE_VENOUS: ค่าระดับการไหลเวียนของเลือด
+BILLIRUBIN: ค่า BILLIRUBIN
+BLAST: ค่าเม็ดเลือดที่้เซลล์ยังไม่เติบโต
+CALCIUM: ค่า CALCIUM
+CREATININ: ค่า CREATININ
+FFA: ค่ากรดไขมันอิสระ 	
+GGT: ค่าตับ
+GLUCOSE: ค่า GLUCOSE
+HEMATOCRITE: ค่า HEMATOCRITE
+HEMOGLOBIN: ค่า HEMOGLOBIN	
+INR: ค่า INR	
+LACTATE: ค่า LACTATE	
+LEUKOCYTES: ค่าเม็ดเลือดขาว
+LINFOCITOS: ค่า LINFOCITOS
+NEUTROPHILES: ค่า NEUTROPHILES	
+P02_ARTERIA: ค่าออกซิเจนในหลอดเลือดแดง
+P02_VENOUS: ค่าออกซิเจนในหลอดเลือด
+PC02_ARTERIAL: ค่าคาร์บอนไดออกไซด์ในหลอดเลือดแดง
+PC02_VENOUS: ค่าคาร์บอนไดออกไซด์ในหลอดเลือด
+PCR: ค่า PCR
+PH_ARTERIAL: ค่า PH
+PLATELETS_VENOUS: ค่าเกล็ดเลือด
+POTASSIUM: ค่า POTASSIUM
+SAT02_ARTERIAL: ค่าความเข้มข้นของออกซิเจน
+SODIUM: ค่า SODIUM
+TGO: ค่า TGO
+TGP: ค่า TGP
+TTPA: ค่า TTPA
+UREA: ค่า UREA
+DIMER: ค่า DIMER
+BLOODPRESSURE_DIASTOLIC: ค่าแรงดันเลือดในขณะที่หัวใจคลายตัว
+BLOODPRESSURE_SISTOLIC: ค่าแรงดันเลือดในขณะที่หัวใจบีบตัว
+HEART_RATE: ค่าอัตราการเต้นของหัวใจ
+RESPIRATORY_RATE: ค่าอัตราการหายใจ
+TEMPERATURE: ค่าอุณหภูมิร่างกาย
+OXYGEN_SATURATION: ค่าความเข้มข้นของออกซิเจนในเลือด
+WINDOW: ช่วงเวลาการรักษา
+ICU: ผู้ป่วยรับการรักษาในห้องฉุกเฉินหรือไม่(0 = ไม่, 1 = ใช่ )
